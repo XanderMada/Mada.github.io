@@ -1,1 +1,1 @@
-# {"members":[{"skplayername":"- JOKAHHH","gamesplayed":"450","skgoals":"517","skassists":"719","skplusmin":"270","skpim":"338","skhits":"593","glgp":"15","dgp":"52","rwgp":"8","cgp":"260","lwgp":"115","glgaa":"4.28","glga":"57","glsaves":"132","glsavepct":"0.698","glso":"0","glsoperiods":"2","blazeId":"385974098","favoritePosition":"center","name":"EJokerH7","platform":"common-gen5"}]}
+# Mada.github.io
